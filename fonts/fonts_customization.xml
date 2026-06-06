@@ -856,6 +856,13 @@
     </family>
     <alias name="harmonyos-sans-medium" to="harmonyos-sans" weight="500"/>
 
+    <!-- Comic Sans -->
+    <family customizationType="new-named-family" name="comicsans">
+        <font weight="400" style="normal">Comic_Sans.ttf</font>
+    </family>
+    <alias name="comicsans-semi-bold" to="comicsans" weight="600"/>
+    <alias name="comicsans-bold" to="comicsans" weight="700"/>
+
   <!-- Material 3 Expressive -->
   <family customizationType="new-named-family" name="variable-display-large" fallback="google-sans">
     <font style="normal" weight="400">GoogleSansFlex-Regular.ttf

@@ -14,6 +14,7 @@ PRODUCT_PACKAGES += \
     FontOnePlusSansOverlay \
     FontOneplusSlateSourceOverlay \
     FontRobotoOverlay \
+    FontComicSansOverlay \
     FontRobotoFlexOverlay \
     FontRubikOverlay \
     FontSonySketchOverlay \
