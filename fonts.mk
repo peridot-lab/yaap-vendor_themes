@@ -16,6 +16,8 @@ PRODUCT_PACKAGES += \
     FontRobotoOverlay \
     FontComicSansOverlay \
     FontRobotoFlexOverlay \
+    FontRecursiveCasualOverlay \
+    FontRecursiveLinearOverlay \
     FontRubikOverlay \
     FontSonySketchOverlay \
     FontUbuntuOverlay
